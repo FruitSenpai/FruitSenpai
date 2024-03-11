@@ -8,7 +8,7 @@ I am a fast learner who easily adapts to any new environment I am thrown in. My 
 
 * 🌍  I'm currently based in Johannesburg, South Africa
 * ✉️  You can contact me at [harveymuyanga@live.co.za](mailto:harveymuyanga@live.co.za)
-* 🧠  I'm learning AWS, Blazor & Salesforce
+* 🧠  I'm learning Azure, Blazor & Salesforce
 
 ### Skills
 
