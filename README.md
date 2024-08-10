@@ -6,9 +6,9 @@ Software Engineer & UX Designer
 
 I am a fast learner who easily adapts to any new environment I am thrown in. My passion for computer and my thirst for knowledge made me obtain an Application Security Analyst certification and a Big Data Analyst certification from IBM. I also spent 6 weeks job shadowing software developers and learning from them at Dariel Solutions, 3 weeks at KPMG as a tech advisory intern and 2 weeks as a Cybersecurity Analyst at Mobius Consulting. As of 2021, I work as a Software Engineer at Sybrin using their platform to tailor solutions for the fintech sector. I am a creative and technical person. I spent two years working as a freelance software developer and UX designer with companies such as The Oken Samuel Foundation (South Africa), TwentyNine (D.R. Congo) using tools like Adobe photoshop, Adobe illustrator, Marvel, Adobe XD, CMS tools, C#, .Net Core, EF Core, MySql,.. I studied at The University of Witwatersrand where I have completed 3 years of Computer Science coursework, some electrical engineering coursework and an Information Systems coursework to bring my degree to completion. I graduated with a Bachelor of Science following which I pursued and obtained a Bachelor of Commerce Honours in Information Systems.
 
-* 🌍  I'm currently based in Johannesburg, South Africa
-* ✉️  You can contact me at [harveymuyanga@live.co.za](mailto:harveymuyanga@live.co.za)
-* 🧠  I'm learning Azure, Blazor & Salesforce
+* 🌍  I'm currently based in Ottawa, Canada
+* ✉️  You can contact me at [harveyiragi@gmail.com](mailto:harveyiragi@gmail.com)
+* 🧠  I'm learning Azure & Blazor
 
 ### Skills
 
